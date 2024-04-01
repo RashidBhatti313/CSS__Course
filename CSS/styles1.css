@@ -1,0 +1,25 @@
+/* p::first-letter{
+    font-size: 32px;
+} */
+/* p::first-line{
+    font-size: 32px;
+} */
+a{
+    color: green;
+    text-decoration: none;
+}
+
+
+a:hover{
+    color: blue;
+
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color: grey;
+}
+a:focus{
+    color: purple;
+}
